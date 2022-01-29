@@ -45,5 +45,5 @@ Stage 5 -
   Objectives
   
     - Write a program that will work endlessly to make coffee for all interested persons until the shutdown signal is given. Introduce two new       options: "remaining" and "exit".
-    - Do not forget that you can be out of resources for making coffee. If the coffee machine doesn't have enough resources to make coffee, 	  the program should output a message that says it can't make a cup of coffee.
+    - Do not forget that you can be out of resources for making coffee. If the coffee machine doesn't have enough resources to make coffee,         the program should output a message that says it can't make a cup of coffee.
     - And the last improvement to the program at this step — if the user types "buy" to buy a cup of coffee and then changes his mind, they         should be able to type "back" to return into the main cycle.
